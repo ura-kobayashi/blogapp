@@ -1,0 +1,5 @@
+.DS_Store
+app/tmp
+app/plugin
+app/vendor
+app/config/bootstrap/environments/production.php
